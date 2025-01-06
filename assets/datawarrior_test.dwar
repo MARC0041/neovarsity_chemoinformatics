@@ -1,0 +1,46 @@
+<datawarrior-fileinfo>
+<version="3.3">
+<created="1736132982798">
+<rowcount="5">
+</datawarrior-fileinfo>
+<column properties>
+<columnName="Structure">
+<columnProperty="specialType	idcode">
+<columnName="idcoordinates2D">
+<columnProperty="parent	Structure">
+<columnProperty="specialType	idcoordinates2D">
+<columnName="FragFp">
+<columnProperty="parent	Structure">
+<columnProperty="specialType	FragFp">
+<columnProperty="version	1.2.1">
+</column properties>
+idcoordinates2D	FragFp	Structure	Name
+!BXNhSFA`S_`@lF@	vJPW!84!4&80V08$F&2F01!8-8!4*1%4*1!VV	gFxIL@cReLfuK@@	2-aminothiophen
+!BXNhSFA`S_`@lF@	vJPW!84!4&80V08$F&2F01!8-8!4*1%4*1!VV	gFxIL@cReLfuK@@	
+			
+			
+			
+<datawarrior properties>
+<columnFilter_Table="">
+<columnWidth_Table_Name="80">
+<columnWidth_Table_Structure="100">
+<currentRecord="1">
+<detailView="height[Data]=0.5;height[Structure]=0.5">
+<formLayout_Form View="TableLayout,3,6.0,-1.0,6.0,11,4.0,-1.0,4.0,-1.0,4.0,-1.0,4.0,-1.0,4.0,-1.0,4.0">
+<formObjectCount_Form View="2">
+<formObjectInfo_Form View_0="Structure	structure	1, 1, 1, 7, full, full">
+<formObjectInfo_Form View_1="Name	textLine	1, 9, 1, 9, full, full">
+<headerLines_Table="2">
+<mainSplitting="0.70768">
+<mainView="Form View">
+<mainViewCount="2">
+<mainViewDockInfo0="root">
+<mainViewDockInfo1="Table	center">
+<mainViewInFront1="true">
+<mainViewName0="Table">
+<mainViewName1="Form View">
+<mainViewType0="tableView">
+<mainViewType1="formView">
+<rightSplitting="0.64276">
+<rowHeight_Table="80">
+</datawarrior properties>
